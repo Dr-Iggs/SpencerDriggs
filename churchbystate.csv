@@ -1,0 +1,95 @@
+Rank 2020,Rank 2010,State,Percent 2020,Percent 2010,Colleges
+1,1,Utah,64.99,69.12,UtahState_Aggies
+2,2,Idaho,25.12,26.11,BoiseState_Broncos
+3,3,Wyoming,11.74,11.14,
+4,5,Arizona,6.1,6.15,Arizona_Wildcats
+4,5,Arizona,6.1,6.15,ArizonaState_SunDevils
+4,5,Arizona,6.1,6.15,GrandCanyon_Antelopes
+5,4,Nevada,5.95,6.49,Nevada_WolfPack
+6,6,Hawaii,5.15,5.14,
+7,7,Montana,4.66,4.7,MontanaState_Bobcats
+8,8,Alaska,4.57,4.53,
+9,9,Washington,3.76,3.97,Gonzaga_Bulldogs
+9,9,Washington,3.76,3.97,
+10,10,Oregon,3.62,3.86,
+11,11,New Mexico,3.28,3.28,
+12,12,Colorado,2.61,2.83,
+13,13,California,1.91,2.05,SouthernCalifornia_Trojans
+13,13,California,1.91,2.05,UCLA_Bruins
+13,13,California,1.91,2.05,SanDiegoState_Aztecs
+13,13,California,1.91,2.05,UCSB_Gauchos
+13,13,California,1.91,2.05,
+13,13,California,1.91,2.05,
+14,21,North Dakota,1.48,1.03,
+15,16,Kansas,1.3,1.2,Kansas_Jayhawks
+15,16,Kansas,1.3,1.2,KansasState_Wildcats
+16,14,Nebraska,1.28,1.28,Creighton_Bluejays
+17,17,Texas,1.24,1.18,Baylor_Bears
+17,17,Texas,1.24,1.18,Texas_Longhorns
+17,17,Texas,1.24,1.18,TexasA&M_Aggies
+17,17,Texas,1.24,1.18,SaintMarys_Gaels
+17,17,Texas,1.24,1.18,TexasA&MCC_Islanders
+17,17,Texas,1.24,1.18,
+17,17,Texas,1.24,1.18,TCU_HornedFrogs
+17,17,Texas,1.24,1.18,TexasTech_RedRaiders
+17,17,Texas,1.24,1.18,Houston_Cougars
+17,17,Texas,1.24,1.18,TexasSouthern_Tigers
+17,18,Oklahoma,1.24,1.15,OralRoberts_GoldenEagles
+17,18,Oklahoma,1.24,1.15,
+19,15,South Dakota,1.2,1.21,
+20,20,Missouri,1.18,1.1,SEMissouriSt_Redhawks
+20,20,Missouri,1.18,1.1,Missouri_Tigers
+21,19,Virginia,1.12,1.12,VCU_Rams
+21,19,Virginia,1.12,1.12,Virginia_Cavaliers
+21,19,Virginia,1.12,1.12,
+21,19,Virginia,1.12,1.12,
+22,22,Arkansas,1.07,0.95,Arkansas_Razorbacks
+23,23,West Virginia,0.96,0.9,WestVirginia_Mountaineers
+24,24,Iowa,0.89,0.81,IowaState_Cyclones
+24,24,Iowa,0.89,0.81,Iowa_Hawkeyes
+24,24,Iowa,0.89,0.81,Drake_Bulldogs
+24,24,Iowa,0.89,0.81,
+25,24,North Carolina,0.85,0.81,Duke_BlueDevils
+25,24,North Carolina,0.85,0.81,UNCAsheville_Bulldogs
+25,24,North Carolina,0.85,0.81,NorthCarolinaState_Wolfpack
+25,24,North Carolina,0.85,0.81,
+26,27,Georgia,0.82,0.8,KennesawState_Owls
+27,24,South Carolina,0.81,0.81,Charleston_Cougars
+27,24,South Carolina,0.81,0.81,Furman_Paladins
+28,27,Maine,0.8,0.8,
+28,29,Kentucky,0.8,0.74,Kentucky_Wildcats
+28,29,Kentucky,0.8,0.74,NorthernKentucky_Norse
+30,32,Tennessee,0.77,0.72,Memphis_Tigers
+30,32,Tennessee,0.77,0.72,Tennessee_Volunteers
+31,32,Alabama,0.75,0.72,Auburn_Tigers
+31,32,Alabama,0.75,0.72,Alabama_CrimsonTide
+32,31,Florida,0.74,0.73,FloridaAtlantic_Owls
+32,31,Florida,0.74,0.73,Miami_Hurricanes
+33,32,Mississippi,0.73,0.72,MississippiState_Bulldogs
+34,35,Vermont,0.72,0.7,Vermont_Catamounts
+35,29,Maryland,0.7,0.74,Maryland_Terrapins
+36,36,Indiana,0.68,0.64,Purdue_Boilermakers
+36,36,Indiana,0.68,0.64,Indiana_Hoosiers
+37,37,New Hampshire,0.64,0.63,
+37,37,Louisiana,0.64,0.63,Louisiana_RaginCajuns
+37,37,Louisiana,0.64,0.63,
+39,39,Minnesota,0.58,0.58,
+40,40,Delaware,0.57,0.54,
+41,41,Ohio,0.53,0.51,KentState_GoldenFlashes
+41,41,Ohio,0.53,0.51,Xavier_Musketeers
+42,42,Wisconsin,0.46,0.43,Marquette_GoldenEagles
+42,51,District Of Columbia,0.46,0.07,Howard_Bisons
+44,42,Michigan,0.45,0.43,MichiganState_Spartans
+45,42,Illinois,0.44,0.43,Illinois_FightingIllini
+45,42,Illinois,0.44,0.43,Northwestern_Wildcats
+45,45,Connecticut,0.44,0.42,Connecticut_Huskies
+47,46,New York,0.41,0.4,Iona_Gaels
+47,46,New York,0.41,0.4,Colgate_Raiders
+47,46,New York,0.41,0.4,
+47,46,New York,0.41,0.4,
+48,47,Pennsylvania,0.4,0.39,PennState_NittanyLions
+48,47,Pennsylvania,0.4,0.39,Pittsburgh_Panthers
+48,48,Massachusetts,0.4,0.38,
+50,49,Rhode Island,0.39,0.36,Providence_Friars
+51,49,New Jersey,0.37,0.36,FairleighDickinson_Knights
+51,49,New Jersey,0.37,0.36,Princeton_Tigers
