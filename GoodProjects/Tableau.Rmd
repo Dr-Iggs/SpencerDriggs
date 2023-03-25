@@ -1,0 +1,36 @@
+---
+title: "Anunciation"
+author: "Spencer Driggs"
+date: "2023-03-25"
+output: html_document
+---
+
+![](../Images/Anunciation2/Slide1.png)
+
+![](../Images/Anunciation2/Slide2.png)
+
+![](../Images/Anunciation2/Slide3.png)
+
+![](../Images/Anunciation2/Slide4.png)
+
+![](../Images/Anunciation2/Slide5.png)
+
+![](../Images/Anunciation2/Slide6.png)
+
+![](../Images/Anunciation2/Slide7.png)
+
+![](../Images/Anunciation2/Slide8.png)
+
+![](../Images/Anunciation2/Slide9.png)
+
+![](../Images/Anunciation2/Slide10.png)
+
+![](../Images/Anunciation2/Slide11.png)
+
+![](../Images/Anunciation2/Slide12.png)
+
+![](../Images/Anunciation2/Slide13.png)
+
+![](../Images/Anunciation2/Slide14.png)
+
+![](../Images/Anunciation2/Slide15.png)
