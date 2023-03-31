@@ -4,7 +4,7 @@ author: "Spencer Driggs"
 date: "2023-03-22"
 output: 
   prettydoc::html_pretty:
-    theme: cayman
+    theme: simplex
     highlight: github
   code_folding: hide
 editor_options: 
@@ -33,6 +33,8 @@ Projects from DS 350: Data Wrangling and Visualization. GGplot, Tidyverse, spati
     <td><a href="GoodProjects/myworld.html"><img src="Images/smallpox-original.png"></a></td>
   </tr>
 </table>
+
+[350 Semester Project](GoodProjects/haha_I_madethisfile.html)
 
 ## Python & Machine Learning
 Projects from DS 250: Data Programming with Python. I scored a perfect grade in the class, and picked up Python pretty quickly after a 5-year break.
