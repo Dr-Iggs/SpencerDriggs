@@ -15,12 +15,21 @@ editor_options:
 
 1st Place, 2023 BYUI Data Science Hackathon
 [![](Images/hackathon.png)](https://woodruffquery.streamlit.app/)
+<!--
+## API and Internet Access 
 
-## Statistical Tests & Meaningful Explanations 
-Projects from Math 325 & 425: Statistical Tests & Linear Regression. I scored 100% on both exams, and really started to connect my explanations to my analysis.
 <table>
   <tr>
     <td><a href="GoodProjects/HighSchoolSeniors.html"><img src="Images/ANOVA.png"></a></td>
+    <td><a href="GoodProjects/MySimpleLinearRegression.html"><img src="Images/whitesox.gif"></a></td>
+  </tr>
+</table>
+-->
+## Statistical Tests & Meaningful Explanations 
+Projects from Math 325 & 425: Statistical Tests & Linear Regression. I scored 100% on the exam, and really started to connect my explanations to my analysis.
+<table>
+  <tr>
+    <td><a href="GoodProjects/Circle K Consulting.html"><img src="Images/CircleK.png"></a></td>
     <td><a href="GoodProjects/MySimpleLinearRegression.html"><img src="Images/whitesox.gif"></a></td>
   </tr>
 </table>
@@ -41,7 +50,7 @@ Projects from DS 250: Data Programming with Python. I scored a perfect grade in 
 
 <table>
   <tr>
-    <td><a href="GoodProjects/Project4.html"><img src="Images/sklearn.jpg"></a></td>
+    <td><a href="GoodProjects/Module2WriteUp.html"><img src="Images/sklearn.jpg"></a></td>
     <td><a href="GoodProjects/Project5.html"><img src="Images/starwars.png"></a></td>
   </tr>
 </table>
