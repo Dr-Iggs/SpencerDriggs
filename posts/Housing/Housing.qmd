@@ -1,0 +1,22 @@
+---
+title: "Housing Investigation"
+author: "Spencer Driggs"
+date: "Oct 22, 2023"
+categories: [visualization, investigation]
+image: "housing.png"
+format:
+  html:
+    page-layout: full
+---
+
+My first data investigation work. I tracked down housing ownership and mapped it out for students. I also made a map that our website couldn't embed.
+
+
+::: column-page
+<iframe height="300" width="100%" frameborder="no" src="https://dr-iggs.github.io/Scroll/Housing/all%20student%20housing.html">
+</iframe>
+
+<iframe height="3000px" width="100%" frameborder="no" src="https://byuiscroll.org/who-owns-student-housing-in-rexburg/">
+
+</iframe>
+:::

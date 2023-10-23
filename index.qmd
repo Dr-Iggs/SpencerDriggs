@@ -1,0 +1,66 @@
+---
+title: ""
+page-layout: full
+resources: resume.pdf
+about: 
+    template: marquee
+    links: 
+    - text: "GitHub"
+      icon: github
+      href: "https://github.com/dr-iggs"
+    - text: LinkedIn
+      icon: linkedin
+      href: "https://www.linkedin.com/in/spencer-driggs-3441a6149/"
+    - text: Resume
+      icon: file-text
+      href: "resume.pdf"
+    - text: Email
+      icon: envelope
+      href: mailto:spencerdriggs@yahoo.com
+# https://quarto.org/docs/websites/website-listings.html
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: false
+  feed: true
+---
+
+<!-- HERO SECTION -->
+::: {.column-screen}
+![](images/bg_hero.png){style="transform: translateY(-5em); height: 10% !important;"}
+:::
+
+
+<!-- ME SECTION -->
+:::: columns
+
+<!-- COL1 -->
+::: {.column width="70%"}
+
+# Meet Spencer!
+
+### Data Journalist
+
+I'm a data scientist with a passion for Python, R, data visualization, and statistics/machine learning. 
+
+:::
+
+<!-- COL 2 (SPACE) -->
+::: {.column width="10%"}
+
+:::
+
+<!-- COL 3 -->
+::: {.column width="20%"}
+
+<br> ![](images/portrait.png){width="130%"}
+
+:::
+
+::::
+
+On this portfolio, I share and teach my recent projects across politics, hitory, statistical analysis, housing investigation, emotion classification. I love so much of what I do and feel grateful every day.
+
+
+<br><br>

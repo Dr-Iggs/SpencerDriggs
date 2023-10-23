@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "**Spencer J Driggs**"
+  navbar:
+    background: "#FFFFFF"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      
+
+format:
+  html:
+    max-width: 300%
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+
+

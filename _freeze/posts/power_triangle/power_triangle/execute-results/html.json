@@ -1,0 +1,11 @@
+{
+  "hash": "e86eeef3fa1b5e45d7090c98d39d71dc",
+  "result": {
+    "markdown": "---\ntitle: Election Coverage\nauthor: Spencer Driggs\ndate: 'Oct 3, 2023'\ncategories:\n  - politics\n  - news\nimage: Luke Evans.jpeg\n---\n\nMy first interview for BYU-I scroll profiling a city mayor candidate\n::: column-page\n<iframe height=\"500\" width=\"100%\" frameborder=\"no\" src=\"https://byuiscroll.org/running-for-rexburg-mayor-was-never-the-plan/\">\n\n</iframe>\n:::\n\n",
+    "supporting": [
+      "power_triangle_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
