@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.1.251">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Spencer Driggs">
+<meta name="dcterms.date" content="2023-07-18">
+
+<title>Spencer J Driggs - Pentagon Papers</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-fixed fullcontent">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title"><strong>Spencer J Driggs</strong></span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html">Home</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html">About</a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Pentagon Papers</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">investigation</div>
+                <div class="quarto-category">machine learning</div>
+                <div class="quarto-category">visualization</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Spencer Driggs </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">July 18, 2023</p>
+      </div>
+    </div>
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+<p>For my machine learning final project, I built a model to scan the Pentagon Papers and document the relationships between all the players in the Vietnam War. I finished the class with an A. <br></p>
+<p>Investigative journalism teams work with massive text datasets and have to parse through to find which pages are most valuable. This works fine manually for small projects, but some reports cover thousands or even millions of documents. For my project, I’ve used <a href="https://spacy.io/">spaCy</a>’s Named Entity Recognition tool to find the locations, organizations and people mentioned within the <a href="https://www.archives.gov/research/pentagon-papers">Pentagon Papers</a>.</p>
+<p><img src="feature.png" class="img-fluid"></p>
+<section id="data-preprocessing" class="level3">
+<h3 class="anchored" data-anchor-id="data-preprocessing">Data Preprocessing</h3>
+<p>The government archive of the papers is scanned documents, so I had to turn the PDFs into text. I took a sample of 5 sections of the papers just for convenience. With PyPDF2, the transcription doesn’t take too long, and it’s fairly accurate for most simple pages like the one pictured:</p>
+<div class="columns">
+<div class="column" style="width:33%;">
+<p><img src="text%20page.png" class="img-fluid"></p>
+</div><div class="column" style="width:67%;">
+<p>TOP SECRET -Sensitive I. A. U.S. POLICY, 1940-1950 1. Indochina in U.S. Wartime Policy, 1941-1945 In the interval between the fall of France in 1940, and the Pearl Harbor attack in December, 1941, the United States watched with increasing apprehension the flux of Japanese military power into Indochina. At first the United States urged Vichy to refuse Japanese requests for authoriza-tion to use bases there, but was unable to offer more than vague assur-ances of assistance, such as a State Department statement to the French Ambassador on 6 August 1940 that: “We have been. doing and are doing everything possible ’l-Tithin the framework of our established policies to keep the situation in the Far East stabilized; that we have been progressively t…</p>
+</div>
+</div>
+<p>There are some small errors, specifically the W in “within” became “l-T”, but overall it does pretty well. It doesn’t do as well with multiple columns and does very poorly with maps, so an image classification model to recognize where the text is would be useful, but outside my scope.</p>
+</section>
+<section id="selection-training-and-use-of-a-machine-learning-model" class="level3">
+<h3 class="anchored" data-anchor-id="selection-training-and-use-of-a-machine-learning-model">Selection, training, and use of a Machine Learning Model</h3>
+<p>The spaCy Named Entity Recognition comes pre-built for different languages and is really good. However, many of the people, organizations, and locations I’m looking for are Vietnamese. The grammar won’t be a problem, but I want to isolate some of these entities and make sure they get recognized. Between the maps, the tables of locations and figures, and my own parsing, I was able to build a fairly comprehensive list of individuals referenced on the early pages, which I then added to the base model in these categories and had it re-train.</p>
+</section>
+<section id="interpretation-of-results-metrics-and-limitations" class="level3">
+<h3 class="anchored" data-anchor-id="interpretation-of-results-metrics-and-limitations">Interpretation of results: Metrics and Limitations)</h3>
+<table class="table">
+<colgroup>
+<col style="width: 17%">
+<col style="width: 14%">
+<col style="width: 10%">
+<col style="width: 16%">
+<col style="width: 14%">
+<col style="width: 16%">
+<col style="width: 10%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Trained on</th>
+<th>Entities</th>
+<th>Epochs</th>
+<th>Precision</th>
+<th>Accuracy</th>
+<th>F-1 Score</th>
+<th>Pg 225</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>95 pgs</td>
+<td>74</td>
+<td>68</td>
+<td>98.92</td>
+<td>97.35</td>
+<td>98.92</td>
+<td>5/11</td>
+</tr>
+<tr class="even">
+<td>15 pgs</td>
+<td>90</td>
+<td>257</td>
+<td>76.19</td>
+<td>88.89</td>
+<td>82.05</td>
+<td>5/11</td>
+</tr>
+</tbody>
+</table>
+<p>A large training sample was a lot more effective, even if it wasn’t fully annotated. Between the two, I ended up using that one because of its much higher accuracy. When given a random page to identify (pg. 225), the two faired similarly. <br> However, it could use a lot more work. I tried my best to incorporate Vietnamese into the dataset, but I’ve never spoken the language and didn’t reach out to anybody who does. I don’t have high confidence that I got the organizations and people right. <br> I also spent little time optimizing the pdf reader. The reader consistently misread “Moscow” as “Mosco,” and I can only imagine others were mislabeled as well, so some entities may have been undercounted in my diagram.</p>
+</section>
+<section id="communication-of-results" class="level3">
+<h3 class="anchored" data-anchor-id="communication-of-results">Communication of results</h3>
+<p>The graph shows some powerful relationships. I had to limit it to entitles with 15K references, and connections stronger than 50. At this level, it’s probably only useful for those of us who don’t know much about the war, because most are obvious connections (“Washington” with “United States” and “U.S.”, or “Cambodia” with “Laos’). <br> All the groups I identified I double-checked as real entities during the war, so there was very little Type I error, especially with a minimum of 15,000 references.</p>
+</section>
+<section id="ethical-implications" class="level3">
+<h3 class="anchored" data-anchor-id="ethical-implications">Ethical implications</h3>
+<p>A method like this has to be a tool to aid journalists and researchers, not a decider, because we are only exploring relationships. Entities might appear together for many reasons, not always because they have a shared goal and strategy, so building accusations or creating a narrative without reading the documents would be unfounded. <br> However, building a tool like this will be very useful for parsing huge documents. The Pandora papers was over 6 million pages and this can help people trying to hold others accountable for unscrupulous behavior. <br> It would also be useful to run this on the whole document, because I only grabbed sections of the whole thing. There might be some bias towards the early or middle parts of the war and investigation, without taking into account the development of the war. <br> My post-graduation goal is to work in data journalism, and I’m hoping that work like this can continue to be a part of my life.</p>
+</section>
+<section id="results" class="level2">
+<h2 class="anchored" data-anchor-id="results">Results</h2>
+<p>See the full code online <a href="https://colab.research.google.com/drive/1jaxXreFLNCOmg4m-09EeBUpsjzbdr5O1?usp=sharing">here</a>.</p>
+<p>And just for fun, here’s an early model I made before filtering down the references: <img src="too%20many.png" class="img-fluid"></p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

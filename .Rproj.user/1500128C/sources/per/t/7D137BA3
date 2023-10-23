@@ -1,0 +1,27 @@
+{
+    "id": "7D137BA3",
+    "path": "~/GitHub/SpencerDriggs/index.Rmd",
+    "project_path": "index.Rmd",
+    "type": "r_markdown",
+    "hash": "1500219945",
+    "contents": "",
+    "dirty": false,
+    "created": 1679720563348.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "chunk_output_type": "console",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "24,8",
+        "scrollLine": "20"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1680229033,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1680229033,
+    "read_only": false,
+    "read_only_alternatives": []
+}

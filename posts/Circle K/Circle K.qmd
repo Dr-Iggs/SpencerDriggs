@@ -1,0 +1,17 @@
+---
+title: "Consulting for Circle K"
+author: "Spencer Driggs"
+date: '27 March, 2023'
+tags: [research, modeling]
+image: circle k.jpg
+format:
+  html:
+    page-layout: full
+---
+
+This was a consulting project I did for Circle K's recent addiitons to their customer loyalty program. They asked me to look at their thousands of locations and see how their new program compared to the old. Ultimately I suggested that some stores keep the old method and some adopt the new one, because the store's benefit was mutually exclusive.
+
+::: column-page
+<iframe height='3000px' width='100%' frameborder='no' src='Consulting.html'>
+</iframe?
+:::

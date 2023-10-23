@@ -1,0 +1,72 @@
+---
+title: "Portfolio Hub"
+author: "Spencer Driggs"
+date: "2023-03-22"
+output: 
+  prettydoc::html_pretty:
+    theme: simplex
+    highlight: github
+  code_folding: hide
+editor_options: 
+  chunk_output_type: console
+---
+
+## Award-Winning Projects
+
+1st Place, 2023 BYUI Data Science Hackathon
+[![](Images/hackathon.png)](https://woodruffquery.streamlit.app/)
+
+## Statistical Tests & Meaningful Explanations 
+Projects from Math 325 & 425: Statistical Tests & Linear Regression. I scored 100% on both exams, and really started to connect my explanations to my analysis.
+<table>
+  <tr>
+    <td><a href="GoodProjects/HighSchoolSeniors.html"><img src="Images/ANOVA.png"></a></td>
+    <td><a href="GoodProjects/MySimpleLinearRegression.html"><img src="Images/whitesox.gif"></a></td>
+  </tr>
+</table>
+
+## Data Wrangling with R
+Projects from DS 350: Data Wrangling and Visualization. GGplot, Tidyverse, spatial data, weather: all kinds!
+<table>
+  <tr>
+    <td><a href="GoodProjects/USStates.html"><img src="Images/states.png"></a></td>
+    <td><a href="GoodProjects/myworld.html"><img src="Images/smallpox-original.png"></a></td>
+  </tr>
+</table>
+
+[350 Semester Project](GoodProjects/haha_I_madethisfile.html)
+
+## Python & Machine Learning
+Projects from DS 250: Data Programming with Python. I scored a perfect grade in the class, and picked up Python pretty quickly after a 5-year break.
+
+<table>
+  <tr>
+    <td><a href="GoodProjects/Project4.html"><img src="Images/sklearn.jpg"></a></td>
+    <td><a href="GoodProjects/Project5.html"><img src="Images/starwars.png"></a></td>
+  </tr>
+</table>
+
+## Tableau
+
+I've learned a lot since these projects, but these were my introduction to dashboards, interactivity, and visualization. I don't have the heart to remove them.
+
+<table>
+  <tr>
+    <td><a href="GoodProjects/Tableau.html"><img src="Images/tableau.png"></a></td>
+    <td><a href="https://public.tableau.com/app/profile/dr.iggs/viz/WilfordWoodruff1/Dashboard1"><img src="Images/wilford.jpg"></a></td>
+  </tr>
+</table>
+
+<!--
+[![Two-Way ANOVA](Images/ANOVA.png)](GoodProjects/HighSchoolSeniors2.html)
+
+[![Linear Regression](Images/whitesox.gif)](GoodProjects/MyLinearRegression.html)
+
+[![Unique Datasets](Images/mary.jpg)](GoodProjects/Bach.html)
+
+[![Machine Learning](Images/sklearn.jpg)](GoodProjects/Project4.html)
+
+[![Multiple Regression](Images/carprices.png)](GoodProjects/CarPrices.html)
+
+[![Graph Recreation](Images/smallpox-original.png)](GoodProjects/myworld.html)
+-->
