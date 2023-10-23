@@ -1,0 +1,17 @@
+---
+title: "Ohio Voter Hackathon"
+author: "Spencer Driggs"
+date: "Oct 21, 2023"
+categories: [dashboard, machine learning, elections]
+image: "ohio.png"
+format:
+  html:
+    page-layout: full
+---
+
+I won an MLH-sponsored Hackathon for my work in helping small political organizations access the Ohio voter history for campaigning.
+
+# Redirecting to Ohio Elect
+
+::html
+   <meta http-equiv="refresh" content="0;url=http://ohioelect.us/">
