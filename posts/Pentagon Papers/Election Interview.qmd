@@ -6,7 +6,8 @@ categories: [investigation, machine learning, visualization]
 image: "vietnam.png"
 ---
 
-For my machine learning final project, I built a model to scan the Pentagon Papers and document the relationships between all the players in the Vietnam War. I finished the class with an A.
+For my machine learning final project, I built a model to document the Pentagon Papers. It scans the pages and displays the relationships between all the players in the Vietnam War. I finished the class with an A.
+
 <br>
 
 Investigative journalism teams work with massive text datasets and have to parse through to find which pages are most valuable. This works fine manually for small projects, but some reports cover thousands or even millions of documents. For my project, I’ve used [spaCy](https://spacy.io/)’s Named Entity Recognition tool to find the locations, organizations and people mentioned within the [Pentagon Papers](https://www.archives.gov/research/pentagon-papers).

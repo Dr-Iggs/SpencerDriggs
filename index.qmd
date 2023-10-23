@@ -54,13 +54,13 @@ I'm a data scientist with a passion for Python, R, data visualization, and stati
 <!-- COL 3 -->
 ::: {.column width="20%"}
 
-<br> ![](images/portrait.png){width="130%"}
+<br> ![](images/portrait.jpg){width="130%"}
 
 :::
 
 ::::
 
-On this portfolio, I share and teach my recent projects across politics, hitory, statistical analysis, housing investigation, emotion classification. I love so much of what I do and feel grateful every day.
+On this portfolio, I share and teach my recent projects across politics, history, statistical analysis, housing investigation, emotion classification. I love so much of what I do and feel grateful every day.
 
 
 <br><br>

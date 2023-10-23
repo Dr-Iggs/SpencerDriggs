@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Meet Spencer!",
     "section": "",
-    "text": "Meet Spencer!\n\nData Journalist\nI’m a data scientist with a passion for Python, R, data visualization, and statistics/machine learning.\n\n\n\n\n \n\n\nOn this portfolio, I share and teach my recent projects across politics, hitory, statistical analysis, housing investigation, emotion classification. I love so much of what I do and feel grateful every day.\n\n\n\n\n\n\n\n\n\n\n\n\n\nHousing Investigation\n\n\n\n\n\n\nSpencer Driggs\n\n\nOct 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOhio Voter Hackathon\n\n\n\n\n\n\nSpencer Driggs\n\n\nOct 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElection Coverage\n\n\n\n\n\n\nSpencer Driggs\n\n\nOct 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPentagon Papers\n\n\n\n\n\n\nSpencer Driggs\n\n\nJul 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHistorical Writings Dashboard\n\n\n\n\n\n\nSpencer Driggs\n\n\nJul 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nConsulting for Circle K\n\n\n\n\n\n\nSpencer Driggs\n\n\nMar 27, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Meet Spencer!\n\nData Journalist\nI’m a data scientist with a passion for Python, R, data visualization, and statistics/machine learning.\n\n\n\n\n \n\n\nOn this portfolio, I share and teach my recent projects across politics, history, statistical analysis, housing investigation, emotion classification. I love so much of what I do and feel grateful every day.\n\n\n\n\n\n\n\n\n\n\n\n\n\nHousing Investigation\n\n\n\n\n\n\nSpencer Driggs\n\n\nOct 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOhio Voter Hackathon\n\n\n\n\n\n\nSpencer Driggs\n\n\nOct 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElection Coverage\n\n\n\n\n\n\nSpencer Driggs\n\n\nOct 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPentagon Papers\n\n\n\n\n\n\nSpencer Driggs\n\n\nJul 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHistorical Writings Dashboard\n\n\n\n\n\n\nSpencer Driggs\n\n\nJul 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nConsulting for Circle K\n\n\n\n\n\n\nSpencer Driggs\n\n\nMar 27, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/power_triangle/power_triangle.html",
@@ -165,7 +165,7 @@
     "href": "posts/Pentagon Papers/Election Interview.html",
     "title": "Pentagon Papers",
     "section": "",
-    "text": "For my machine learning final project, I built a model to scan the Pentagon Papers and document the relationships between all the players in the Vietnam War. I finished the class with an A.\nInvestigative journalism teams work with massive text datasets and have to parse through to find which pages are most valuable. This works fine manually for small projects, but some reports cover thousands or even millions of documents. For my project, I’ve used spaCy’s Named Entity Recognition tool to find the locations, organizations and people mentioned within the Pentagon Papers."
+    "text": "For my machine learning final project, I built a model to document the Pentagon Papers. It scans the pages and displays the relationships between all the players in the Vietnam War. I finished the class with an A.\nInvestigative journalism teams work with massive text datasets and have to parse through to find which pages are most valuable. This works fine manually for small projects, but some reports cover thousands or even millions of documents. For my project, I’ve used spaCy’s Named Entity Recognition tool to find the locations, organizations and people mentioned within the Pentagon Papers."
   },
   {
     "objectID": "posts/Pentagon Papers/Election Interview.html#ethical-implications",
