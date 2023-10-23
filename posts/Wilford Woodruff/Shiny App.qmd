@@ -1,0 +1,22 @@
+---
+title: "Historical Writings Dashboard"
+author: "Spencer Driggs"
+date: "July 14, 2023"
+categories: [dashboard, visualization]
+image: "woodruff.jpg"
+format:
+  html:
+    page-layout: full
+---
+
+I built a dashboard that summarizes the [Wilford Woodruff Papers](https://wilfordwoodruffpapers.org/). This historical figure's journals, speeches, and letters are over 25,000 pages, and I took the transcription work of others and made some of the places and words searchable across the database. 
+
+<br>
+
+Because of my work they hired me on as their very first data scientist, and they've already implemented several features into their main website. They also showcased these maps at the [2023 Association of Documentary Editing Conference in Washington, D.C.](https://youtu.be/msF7zUWlXuQ?si=AucVK012U8rlLwqt&t=504)
+
+
+::: column-page
+<iframe height="3000px" width="100%" frameborder="no" src="https://byuiscroll.org/who-owns-student-housing-in-rexburg/">
+</iframe>
+:::

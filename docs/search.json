@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Meet Spencer!",
     "section": "",
-    "text": "Meet Spencer!\n\nData Journalist\nI’m a data scientist with a passion for Python, R, data visualization, and statistics/machine learning.\n\n\n\n\n \n\n\nOn this portfolio, I share and teach my recent projects across politics, hitory, statistical analysis, housing investigation, emotion classification. I love so much of what I do and feel grateful every day.\n\n\n\n\n\n\n\n\n\n\n\n\n\nHousing Investigation\n\n\n\n\n\n\nSpencer Driggs\n\n\nOct 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElection Coverage\n\n\n\n\n\n\nSpencer Driggs\n\n\nOct 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA county like mine\n\n\n\n\n\n\nAj Averett\n\n\nMar 31, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Meet Spencer!\n\nData Journalist\nI’m a data scientist with a passion for Python, R, data visualization, and statistics/machine learning.\n\n\n\n\n \n\n\nOn this portfolio, I share and teach my recent projects across politics, hitory, statistical analysis, housing investigation, emotion classification. I love so much of what I do and feel grateful every day.\n\n\n\n\n\n\n\n\n\n\n\n\n\nHousing Investigation\n\n\n\n\n\n\nSpencer Driggs\n\n\nOct 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElection Coverage\n\n\n\n\n\n\nSpencer Driggs\n\n\nOct 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHistorical Writings Dashboard\n\n\n\n\n\n\nSpencer Driggs\n\n\nJul 14, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/power_triangle/power_triangle.html",
@@ -152,5 +152,12 @@
     "title": "Spencer’s Journey",
     "section": "",
     "text": "https://byuiscroll.org/see-all-references-to-jesus-in-the-193rd-semiannual-general-conference/ https://byuiscroll.org/tie-colors-of-general-conference/ Work for"
+  },
+  {
+    "objectID": "posts/Wilford Woodruff/Shiny App.html",
+    "href": "posts/Wilford Woodruff/Shiny App.html",
+    "title": "Historical Writings Dashboard",
+    "section": "",
+    "text": "I built a dashboard that summarizes the Wilford Woodruff Papers. This historical figure’s journals, speeches, and letters are over 25,000 pages, and I took the transcription work of others and made some of the places and words searchable across the database.\n\nBecause of my work they hired me on as their very first data scientist, and they’ve already implemented several features into their main website. They also showcased these maps at the 2023 Association of Documentary Editing Conference in Washington, D.C."
   }
 ]
