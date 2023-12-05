@@ -1,0 +1,29 @@
+---
+title: "Cintas Best Restroom"
+author: "Spencer Driggs"
+date: "Nov 29, 2023"
+categories: [visualization, investigation, maps]
+image: "map_image.png"
+format:
+  html:
+    page-layout: full
+---
+
+Each year, the bathroom supply company Cintas gives out awards for the "Best Restroom in America". The nominees span the country, from a wildlife refuge in Florida to a department store in Seattle, but Cintas has never made a map of all 100+ winners and finalists.
+
+<br>
+
+::: column-page
+<iframe height="500" width="100%" frameborder="no" src="https://dr-iggs.github.io/Scroll/Bathrooms/Quarto%20Map.html">
+</iframe>
+:::
+<br>
+I scraped Cintas' website for the name and city of each of the finalists, then ran each of the locations through the Google Maps geolocation API. Some of the locations don't exist anymore, in which case I just used the town name.
+<br>
+I've been in communication with Cintas, and they might add the map to their website. Here's the comical article I wrote for my school newspaper when the nomination period opened.
+
+::: column-page
+<iframe height="3000px" width="100%" frameborder="no" src="https://byuiscroll.org/stall-of-fame-nominations-open-for-americas-best-restroom/">
+
+</iframe>
+:::

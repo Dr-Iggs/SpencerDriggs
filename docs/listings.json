@@ -2,9 +2,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Bathrooms/Bathrooms.html",
+      "/posts/Campaign Finance/Campaigns.html",
       "/posts/Housing/Housing.html",
       "/posts/OhioVote/ohio vote.html",
-      "/posts/power_triangle/Election Interview.html",
+      "/posts/Disney/Disney.html",
+      "/posts/Election Interview/Election Interview.html",
       "/posts/Pentagon Papers/Election Interview.html",
       "/posts/Wilford Woodruff/Shiny App.html",
       "/posts/Circle K/Circle K.html"

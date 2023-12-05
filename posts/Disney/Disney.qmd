@@ -1,0 +1,24 @@
+---
+title: "Disney turns 100"
+author: "Spencer Driggs"
+date: "Oct 16, 2023"
+categories: [visualization, investigation]
+image: "disney_header.png"
+format:
+  html:
+    page-layout: full
+---
+
+Disney turned 100 earlier this year, this piece displays their influence on movies. 
+With some movie API calls, I was able to build these graphics in R.
+
+Other news groups did articles on Disney's top 100 films, or a look back at the 100 years, but I never saw anyone take this angle.
+
+![Non-Disney films in white, future acquisitions in grey](FINAL FINAL FINAL.png)
+![Films ordered by year, then by inflation-adjusted box office gross](topmovies.gif)
+
+
+::: column-page
+<iframe height="3000px" width="100%" frameborder="no" src="https://byuiscroll.org/as-disney-turns-100-byu-i-professor-worries-audiences-are-feeling-the-star-wars-marvel-and-pixar-fatigue/">
+
+:::

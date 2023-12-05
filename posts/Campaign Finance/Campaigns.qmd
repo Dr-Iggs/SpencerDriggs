@@ -1,0 +1,17 @@
+---
+title: "Campaign Finance"
+author: "Spencer Driggs"
+date: "Nov 17, 2023"
+categories: [visualization, investigation]
+image: "by candidate.jpg"
+format:
+  html:
+    page-layout: full
+---
+
+After the city mayoral and city council election ended, I broke down the financial spending.
+
+::: column-page
+<iframe height="3000px" width="100%" frameborder="no" src="https://byuiscroll.org/who-spent-the-most-on-novembers-election/">
+</iframe>
+:::

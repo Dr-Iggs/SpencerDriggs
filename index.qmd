@@ -26,10 +26,10 @@ listing:
   feed: true
 ---
 
-<!-- HERO SECTION -->
+<!-- HERO SECTION 
 ::: {.column-screen}
 ![](images/bg_hero.png){style="transform: translateY(-5em); height: 10% !important;"}
-:::
+::: -->
 
 
 <!-- ME SECTION -->
@@ -40,9 +40,14 @@ listing:
 
 # Meet Spencer!
 
-### Data Journalist
+I'm a data scientist with a passion for visualization, especially with R. 
+<br>
 
-I'm a data scientist with a passion for Python, R, data visualization, and statistics/machine learning. 
+I've done projects with Cintas, Circle K, news organizations, historical research teams, and semiconductor companies. 
+<br>
+
+My works span politics, history, housing, emotion classifiers, film, and mapping. Check them out below!
+<br> 
 
 :::
 
@@ -59,8 +64,6 @@ I'm a data scientist with a passion for Python, R, data visualization, and stati
 :::
 
 ::::
-
-On this portfolio, I share and teach my recent projects across politics, history, statistical analysis, housing investigation, emotion classification. I love so much of what I do and feel grateful every day.
 
 
 <br><br>
