@@ -2,11 +2,16 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/Bathrooms/Bathrooms.html",
-      "/posts/Campaign Finance/Campaigns.html",
+      "/posts/text_poster/to_etsy.html",
+      "/posts/appoll/appoll.html",
+      "/posts/education/to_pacini.html",
+      "/posts/Sonification/sound_redirect.html",
       "/posts/Housing/Housing.html",
+      "/posts/WW Map/redirect.html",
+      "/posts/Bathrooms/Bathrooms.html",
       "/posts/OhioVote/ohio vote.html",
       "/posts/Disney/Disney.html",
+      "/posts/Campaign Finance/Campaigns.html",
       "/posts/Election Interview/Election Interview.html",
       "/posts/Pentagon Papers/Election Interview.html",
       "/posts/Wilford Woodruff/Shiny App.html",

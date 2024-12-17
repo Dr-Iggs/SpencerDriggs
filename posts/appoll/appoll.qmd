@@ -1,0 +1,17 @@
+---
+title: "NCAAF Top 25 History"
+author: "Spencer Driggs"
+date: "Oct 4, 2024"
+categories: [visualization, web]
+image: "byuutah.png"
+format:
+  html:
+    page-layout: full
+---
+  
+  Compare any 2 college football teams through history with this AP Poll comparison webapp in Python.
+
+# Redirecting to AP Poll History
+
+::html
+<meta http-equiv="refresh" content="0;url=https://appoll.streamlit.app/">

@@ -1,0 +1,17 @@
+---
+title: "Data Sonification"
+author: "Spencer Driggs"
+date: "Apr 4, 2024"
+categories: [visualization, music]
+image: "icon.png"
+format:
+  html:
+    page-layout: full
+---
+  
+  Instead of making images with data, I used time-oriented data to make a song.
+
+# Redirecting to Sonification Site
+
+::html
+<meta http-equiv="refresh" content="0;url=https://dr-iggs.github.io/webdev/datamuse/musicpy.html">

@@ -43,7 +43,7 @@ listing:
 I'm a data scientist with a passion for visualization, especially with R. 
 <br>
 
-I've done projects with Cintas, Circle K, news organizations, historical research teams, and semiconductor companies. 
+I've done projects with Circle K, MurphyUSA, news organizations, historical nonprofits, and Cintas. 
 <br>
 
 My works span politics, history, housing, emotion classifiers, film, and mapping. Check them out below!

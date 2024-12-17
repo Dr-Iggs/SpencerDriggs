@@ -1,0 +1,17 @@
+---
+title: "Historical Travel Map"
+author: "Spencer Driggs"
+date: "Dec 4, 2023"
+categories: [visualization, history]
+image: "map_screenshot.png"
+format:
+  html:
+    page-layout: full
+---
+  
+  I extracted 2,000 locations from journal entries, gathered their coordinates, and mapped them.
+
+# Redirecting to Ohio Elect
+
+::html
+<meta http-equiv="refresh" content="0;url=https://wilfordwoodruffpapers.org/map">

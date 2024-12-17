@@ -1,7 +1,7 @@
 ---
 title: "Housing Investigation"
 author: "Spencer Driggs"
-date: "Oct 22, 2023"
+date: "Dec 22, 2023"
 categories: [visualization, investigation]
 image: "housing.png"
 format:
@@ -9,7 +9,7 @@ format:
     page-layout: full
 ---
 
-My first data investigation work. I tracked down housing ownership and mapped it out for students. I also made a map that our website couldn't embed.
+Winner, Idaho Press Club's 2023 Best Student Investigative/Watchdog Reporting
 
 
 ::: column-page

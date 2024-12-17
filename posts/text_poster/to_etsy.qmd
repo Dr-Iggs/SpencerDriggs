@@ -1,0 +1,17 @@
+---
+title: "Text Posters"
+author: "Spencer Driggs"
+date: "Dec 10, 2024"
+categories: [visualization, R, art]
+image: "lesmis.png"
+format:
+  html:
+    page-layout: full
+---
+  
+  I plot text to recreate an image in R ggplot. They turned out so well I started selling them!
+
+# Redirecting to Ohio Elect
+
+::html
+<meta http-equiv="refresh" content="0;url=https://colorcodedfilms.etsy.com">

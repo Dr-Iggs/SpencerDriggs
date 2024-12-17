@@ -1,0 +1,17 @@
+---
+title: "Dissertation Stat Assistant"
+author: "Spencer Driggs"
+date: "Apr 10, 2024"
+categories: [research, model]
+image: "scatterplot.png"
+format:
+  html:
+    page-layout: full
+---
+  
+  Research on post-graduation teaching success for new educators.
+
+# Redirecting to Ohio Elect
+
+::html
+<meta http-equiv="refresh" content="0;url=DanielsonModel.html>
