@@ -47,6 +47,8 @@ I've done projects with Circle K, MurphyUSA, news organizations, historical nonp
 <br>
 
 My works span politics, history, housing, emotion classifiers, film, and mapping. Check them out below!
+
+*Notes on AI*: I used ChatGPT for debugging help with the text posters, college football website, and the Disney movie grid. We used Dalle-2 for the Ohio hackathon images.
 <br> 
 
 :::
